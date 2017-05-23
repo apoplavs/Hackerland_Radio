@@ -1,3 +1,5 @@
+# Hackerland_Radio
+
 Hackerland is a one-dimensional city with houses, where each house is located at some on the - axis.
 The Mayor wants to install radio transmitters on the roofs of the city's houses.
 Each transmitter has a range, meaning it can transmit a signal to all houses units of distance away.
